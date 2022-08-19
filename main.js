@@ -15,7 +15,7 @@ function showlast(tableau2){
         
     }
 
-    console.log(tableau2[]);
+    console.log(tableau2);
 
     return tableau2;
 }
